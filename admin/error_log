@@ -1,0 +1,12 @@
+[09-Jul-2016 07:18:00 America/Detroit] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/maulshre/public_html/softwarestore/admin/home.php on line 120
+[31-Oct-2018 23:10:46 America/Detroit] PHP Parse error:  syntax error, unexpected $end in /home/getcoursebiz/public_html/beta/admin/home.php on line 322
+[01-Nov-2018 22:25:18 America/Detroit] PHP Parse error:  syntax error, unexpected $end in /home/getcoursebiz/public_html/beta/admin/home.php on line 167
+[02-Nov-2018 08:59:18 America/Detroit] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/getcoursebiz/public_html/beta/admin/home.php on line 318
+[03-Nov-2018 09:06:55 America/Detroit] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/getcoursebiz/public_html/beta/admin/free-downloads.php on line 15
+[03-Nov-2018 09:07:01 America/Detroit] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/getcoursebiz/public_html/beta/admin/free-downloads.php on line 15
+[03-Nov-2018 09:07:50 America/Detroit] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/getcoursebiz/public_html/beta/admin/free-downloads.php on line 15
+[03-Nov-2018 09:07:58 America/Detroit] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/getcoursebiz/public_html/beta/admin/free-downloads.php on line 15
+[03-Nov-2018 09:08:51 America/Detroit] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/getcoursebiz/public_html/beta/admin/free-downloads.php on line 15
+[03-Nov-2018 09:08:54 America/Detroit] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/getcoursebiz/public_html/beta/admin/free-downloads.php on line 15
+[03-Nov-2018 09:08:59 America/Detroit] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/getcoursebiz/public_html/beta/admin/free-downloads.php on line 16
+[07-Nov-2018 07:03:41 America/Detroit] PHP Parse error:  syntax error, unexpected $end in /home/getcoursebiz/public_html/beta/admin/settings.php on line 183

@@ -1,0 +1,1 @@
+{"enable_type":"none","cust_purchased_min":"1","cust_purchased_max":"10","page_view_min":"4","page_view_max":"15","Save":"Save","PHPSESSID":"ki8katvqf2kalrk067cqhfh1a7","cookie":"1","social":"1"}
